@@ -1,0 +1,4 @@
+spriteanimator
+==============
+
+Sprite animation
