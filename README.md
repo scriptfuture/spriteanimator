@@ -1,4 +1,0 @@
-spriteanimator
-==============
-
-Sprite animation
